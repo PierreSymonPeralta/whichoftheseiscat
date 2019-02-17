@@ -8,3 +8,25 @@ The aim of this assignment is to get help from the user to train a dataset of im
 * [Webpack](https://developers.google.com/web/fundamentals/web-components/customelements) - Build Tool
 * [Unsplash](https://unsplash.com/search/photos/cats) - Images
 
+## Steps to Run the app
+1. Clone repo
+```bash
+git clone https://github.com/PierreSymonPeralta/whichoftheseiscat.git
+cd whichoftheseiscat
+```
+2. Install Dependencies
+```bash
+npm install
+```
+3. Run the app
+```bash
+npm start
+```
+
+## Screenshots
+
+Landing
+![Landing Page](https://user-images.githubusercontent.com/18638587/52909393-e5aee780-32c2-11e9-8b0c-1819e18d54b1.png)
+
+Result
+![Result](https://user-images.githubusercontent.com/18638587/52909417-0aa35a80-32c3-11e9-9253-bfc691b46a69.png)
