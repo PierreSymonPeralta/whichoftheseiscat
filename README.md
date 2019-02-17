@@ -5,7 +5,7 @@ The aim of this assignment is to get help from the user to train a dataset of im
 
 ## Resources used
 * [Custom Elements](https://developers.google.com/web/fundamentals/web-components/customelements) - FE components
-* [Webpack](https://developers.google.com/web/fundamentals/web-components/customelements) - Build Tool
+* [Webpack](https://webpack.js.org/) - Build Tool
 * [Unsplash](https://unsplash.com/search/photos/cats) - Images
 
 ## Steps to Run the app
