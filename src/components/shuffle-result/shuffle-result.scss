@@ -1,0 +1,14 @@
+@import '../../style/shared';
+
+shuffle-result {
+  @extend %flex-center;
+  flex-flow: wrap;
+  min-height: 25em;
+  img {
+    box-shadow: 0 1px 3px 1px rgba(60,64,67,.16);
+    height: 300px;
+    padding: 0.5em;
+    margin: 2em;
+  }
+  
+}

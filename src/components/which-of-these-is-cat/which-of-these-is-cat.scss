@@ -1,0 +1,53 @@
+@import '../../style/shared';
+
+
+which-of-these-is-cat{
+  display: flex;
+  flex-flow: column;
+
+  .header{
+    @extend %flex-center;
+    background-color: $primary;
+    height: 14em;
+    color: $white;
+    position: relative;
+    .header__title{
+      font-size: 1.5em;
+      
+      span{
+        position: absolute;
+        right: 10px;
+        bottom: 10px;
+        font-size: 0.8em;
+        cursor: pointer;
+        a{
+          text-decoration: none;
+          color: black;
+        }
+      }
+    }
+  }
+
+  .container{
+    .container__description{
+      @extend %flex-center;
+      height: 5em;
+      .status, .total-cats{
+        font-size: 1.2em;
+        font-weight: bolder
+      }
+    }
+
+    .container__content{
+      @extend %flex-center;
+      flex-wrap: wrap;
+      text-align: center;
+      min-height: 25em;
+    }
+
+    .container__actions{
+      @extend %flex-center;
+
+    }
+  }
+}

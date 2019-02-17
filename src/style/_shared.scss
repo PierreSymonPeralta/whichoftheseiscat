@@ -1,0 +1,40 @@
+$primary: #546E7A;
+$secondary: #87A0B1;
+$darkprimary: #2d4550;
+$white: #ECEFF1;
+$font-color: #263238;
+
+%flex-center{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+*{
+  outline: none;
+  box-sizing: border-box;
+}
+
+.d-block{
+  display: block;
+}
+
+.d-none{
+  display: none;
+}
+
+.btn{
+  padding: 1em;
+  margin: 1em;
+  border: none;
+  border-radius: 3px;
+  background-color: $primary;
+  color: $white;
+  cursor: pointer;
+  font-size: 1em;
+  transition: transform 0.1s cubic-bezier(0,0,0.3,1);
+  &:hover{
+    transform: scale(1.05);
+    background-color: $darkprimary;
+  }
+}

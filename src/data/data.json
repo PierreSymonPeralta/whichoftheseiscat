@@ -1,0 +1,142 @@
+[
+  { 
+    "id": 1,
+    "img": "img-1.jpeg",
+    "iscat": null,
+    "tagged": false,
+    "message": "Yeah we're both cats"
+  },
+  { 
+    "id": 2,
+    "img": "img-2.jpeg",
+    "iscat": null,
+    "tagged": false,
+    "message": "Seriously?"
+  },
+  { 
+    "id": 3,
+    "img": "img-3.jpeg",
+    "iscat": null,
+    "tagged": false,
+    "message": "I'm a CAT!!!"
+  },
+  { 
+    "id": 4,
+    "img": "img-4.jpeg",
+    "iscat": null,
+    "tagged": false,
+    "message": "I'm a CAT! Dog: I'm looking at you"
+  },
+  { 
+    "id": 5,
+    "img": "img-5.jpeg",
+    "iscat": null,
+    "tagged": false,
+    "message": "I'm a Precious CAT!!!"
+  },
+  { 
+    "id": 6,
+    "img": "img-6.jpeg",
+    "iscat": null,
+    "tagged": false,
+    "message": "You found ME!!"
+  },
+  { 
+    "id": 7,
+    "img": "img-7.jpeg",
+    "iscat": null,
+    "tagged": false,
+    "message": "Whatever"
+  },
+  { 
+    "id": 8,
+    "img": "img-8.jpeg",
+    "iscat": null,
+    "tagged": false,
+    "message": "We're CAT!!!"
+  },
+  { 
+    "id": 9,
+    "img": "img-9.jpeg",
+    "iscat": null,
+    "tagged": false,
+    "message": "Meow, Meow"
+  },
+  { 
+    "id": 10,
+    "img": "img-10.jpeg",
+    "iscat": null,
+    "tagged": false,
+    "message": "zzzzZZZZZ Am I look like a cat?"
+  },
+  { 
+    "id": 11,
+    "img": "img-11.jpeg",
+    "iscat": null,
+    "tagged": false,
+    "message": "We are the others?"
+  },
+  { 
+    "id": 12,
+    "img": "img-12.jpeg",
+    "iscat": null,
+    "tagged": false,
+    "message": "Nope"
+  },
+  { 
+    "id": 13,
+    "img": "img-13.jpeg",
+    "iscat": null,
+    "tagged": false,
+    "message": "Nope, not me"
+  },
+  { 
+    "id": 14,
+    "img": "img-14.jpeg",
+    "iscat": null,
+    "tagged": false,
+    "message": "Nah"
+  },
+  { 
+    "id": 15,
+    "img": "img-15.jpeg",
+    "iscat": null,
+    "tagged": false,
+    "message": "I'm man's BFF"
+  },
+  { 
+    "id": 16,
+    "img": "img-16.jpeg",
+    "iscat": null,
+    "tagged": false,
+    "message": "We're puppies"
+  },
+  { 
+    "id": 17,
+    "img": "img-17.jpeg",
+    "iscat": null,
+    "tagged": false,
+    "message": "Nope, I'm busy"
+  },
+  { 
+    "id": 18,
+    "img": "img-18.jpeg",
+    "iscat": null,
+    "tagged": false,
+    "message": "We're also looking for cats"
+  },
+  { 
+    "id": 19,
+    "img": "img-19.jpeg",
+    "iscat": null,
+    "tagged": false,
+    "message": "??????"
+  },
+  { 
+    "id": 20,
+    "img": "img-20.jpeg",
+    "iscat": null,
+    "tagged": false,
+    "message": "Are you sure?"
+  }
+]
